@@ -1,4 +1,9 @@
+Server/.vs
 Server/GameServer/bin
 Server/GameServer/obj
 Server/Common/bin
 Server/Common/obj
+Game/Library 
+Game/Temp
+Game/obj
+Game/Logs

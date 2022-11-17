@@ -21,7 +21,6 @@ namespace GameServer
         {
             services.AddSingleton<WebSocketManager>();
             services.AddSingleton<IConnectDataHandler, GameServerDataHandler>();
-            services.AddHttpClient();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
